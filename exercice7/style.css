@@ -1,0 +1,29 @@
+#liste{
+  display:inline;
+  decoration:none;
+}
+
+.li_hover{
+  border:1px solid blue;
+  background:aqua;
+  color:blue;
+  width:100px;
+}
+#zone1,#zone2,#zone3{
+  position:fixed;
+  top: 30px;
+  left:110px;
+  border:1px solid red;
+  color:black;
+  width:300px;
+  visibility:hidden;
+}
+#zone1{
+  background:pink;
+}
+#zone2{
+  background:green;
+}
+#zone3{
+  background:yellow;
+}
